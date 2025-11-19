@@ -1,0 +1,15 @@
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.AssemblyInfoInputs.cache
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.AssemblyInfo.cs
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.csproj.CoreCompileInputs.cache
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.sourcelink.json
+/Users/diana/repository/task-246004/App10.2/bin/Debug/net9.0/App10.2
+/Users/diana/repository/task-246004/App10.2/bin/Debug/net9.0/App10.2.deps.json
+/Users/diana/repository/task-246004/App10.2/bin/Debug/net9.0/App10.2.runtimeconfig.json
+/Users/diana/repository/task-246004/App10.2/bin/Debug/net9.0/App10.2.dll
+/Users/diana/repository/task-246004/App10.2/bin/Debug/net9.0/App10.2.pdb
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.dll
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/refint/App10.2.dll
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.pdb
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/App10.2.genruntimeconfig.cache
+/Users/diana/repository/task-246004/App10.2/obj/Debug/net9.0/ref/App10.2.dll
