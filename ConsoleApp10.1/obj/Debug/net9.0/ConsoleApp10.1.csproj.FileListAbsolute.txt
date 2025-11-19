@@ -1,0 +1,15 @@
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.AssemblyInfoInputs.cache
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.AssemblyInfo.cs
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.csproj.CoreCompileInputs.cache
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.sourcelink.json
+/Users/diana/repository/task-246004/ConsoleApp10.1/bin/Debug/net9.0/ConsoleApp10.1
+/Users/diana/repository/task-246004/ConsoleApp10.1/bin/Debug/net9.0/ConsoleApp10.1.deps.json
+/Users/diana/repository/task-246004/ConsoleApp10.1/bin/Debug/net9.0/ConsoleApp10.1.runtimeconfig.json
+/Users/diana/repository/task-246004/ConsoleApp10.1/bin/Debug/net9.0/ConsoleApp10.1.dll
+/Users/diana/repository/task-246004/ConsoleApp10.1/bin/Debug/net9.0/ConsoleApp10.1.pdb
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.dll
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/refint/ConsoleApp10.1.dll
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.pdb
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ConsoleApp10.1.genruntimeconfig.cache
+/Users/diana/repository/task-246004/ConsoleApp10.1/obj/Debug/net9.0/ref/ConsoleApp10.1.dll
