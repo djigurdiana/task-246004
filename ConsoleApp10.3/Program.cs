@@ -20,9 +20,11 @@ internal class program
             return;
         }
         int i = 1;
-        for (int i = 1; i <= n; i++)
+        while (i * i <= n) ;
+
         {
-            while (i * i <= n) ;
+            Console.WriteLine("i");
+            i++;
 
         }
         Console.WriteLine("i");
