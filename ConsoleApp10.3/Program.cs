@@ -27,8 +27,7 @@ internal class program
             i++;
 
         }
-        Console.WriteLine("i");
-        i++;
+
 
 
 
