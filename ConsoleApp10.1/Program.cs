@@ -41,6 +41,7 @@ namespace Task10_1
                 Console.WriteLine("{0} дюймов = {1} см", a, cm);
                 Console.WriteLine("{0} дюймов = {1:f2} см", a, cm);
             }
+        
 
         }
     }
