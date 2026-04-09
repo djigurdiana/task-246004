@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
@@ -14,7 +14,11 @@ namespace Task9
         {
             Console.WriteLine("Введит число x:");
 
-            var x = double.Parse(Console.ReadLine());
+            double x;
+            while (!double.TryParse(Console.ReadLine(), out x))
+            {
+                Console.WriteLine("Некорректный ввод. Введите число x:");
+            }
 
             Console.WriteLine($"f({x:F2}) = {F(x):F2}");
         }
